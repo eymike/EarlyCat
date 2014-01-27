@@ -155,10 +155,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="sharpdx_direct3d11_effects_x64.dll" />
-    <Content Include="sharpdx_direct3d11_effects_x86.dll" />
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Content\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
